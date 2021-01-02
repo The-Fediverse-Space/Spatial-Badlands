@@ -1,2 +1,2 @@
-# Spatial-Badlands
+# Spatial Badlands
 The Fediverse Space
